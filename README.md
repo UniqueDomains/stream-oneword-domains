@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .stream one-word domains from Uniq
 
 **Public extract:** 9,295 rows · **Live catalog:** 9,295 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/stream`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | compound.stream   | available | $9.98     | —             | 105            | 26     | 8      | namecheap                                                 |
 | line.stream       | resell    | —         | —             | 74             | 65     | 4      | NameSilo, LLC                                             |
 | ace.stream        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                                  |
-| commercial.stream | available | $9.98     | —             | 91             | 26     | 10     | namecheap                                                 |
+| cure.stream       | available | $9.98     | —             | 72             | 26     | 4      | namecheap                                                 |
 | victor.stream     | resell    | —         | —             | 68             | 65     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | zero.stream       | premium   | $3,125    | $125          | 112            | 53     | 4      | name.com                                                  |
-| cure.stream       | available | $9.98     | —             | 72             | 26     | 4      | namecheap                                                 |
+| gross.stream      | available | $9.98     | —             | 64             | 26     | 5      | namecheap                                                 |
 | cloud.stream      | resell    | —         | —             | 70             | 59     | 5      | Sav.com LLC                                               |
 | business.stream   | premium   | $3,250    | $130          | 100            | 53     | 8      | namecheap                                                 |
-| gross.stream      | available | $9.98     | —             | 64             | 26     | 5      | namecheap                                                 |
+| complex.stream    | available | $9.98     | —             | 111            | 25     | 7      | namecheap                                                 |
 | future.stream     | resell    | —         | —             | 94             | 55     | 6      | Spaceship, Inc.                                           |
 | true.stream       | premium   | $1,250    | $125          | 86             | 52     | 4      | name.com                                                  |
-| complex.stream    | available | $9.98     | —             | 111            | 25     | 7      | namecheap                                                 |
+| commercial.stream | available | $9.98     | —             | 91             | 25     | 10     | namecheap                                                 |
 | wallet.stream     | resell    | —         | —             | 74             | 54     | 6      | NameSilo, LLC                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
