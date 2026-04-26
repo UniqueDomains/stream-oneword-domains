@@ -1,22 +1,22 @@
-# Available .STREAM One-Word Domains (9,295)
+# Available .STREAM One-Word Domains (11,797)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C295%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C295%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C797%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .stream one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .stream one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,797 domains** on the canonical page below.
 
-**Public extract:** 9,295 rows · **Live catalog:** 9,295 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,797 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/stream`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .STREAM one-word domai
 
 ### Files
 
-- `stream.csv` — public CSV extract (9,295 rows)
-- `stream.json` — public JSON extract (9,295 rows)
+- `stream.csv` — public CSV extract (1,000 rows)
+- `stream.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| advance.stream    | available | $9.98     | —             | 110            | 33     | 7      | namecheap                                                 |
-| mini.stream       | resell    | —         | —             | 70             | 70     | 4      | Porkbun                                                   |
-| nationwide.stream | premium   | $125      | $37.99        | 76             | 66     | 10     | name.com                                                  |
-| curative.stream   | available | $9.98     | —             | 92             | 27     | 8      | namecheap                                                 |
-| prompt.stream     | resell    | —         | —             | 114            | 68     | 6      | NameSilo, LLC                                             |
-| seventeen.stream  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                                  |
-| compound.stream   | available | $9.98     | —             | 105            | 26     | 8      | namecheap                                                 |
-| line.stream       | resell    | —         | —             | 74             | 65     | 4      | NameSilo, LLC                                             |
-| ace.stream        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                                  |
-| cure.stream       | available | $9.98     | —             | 72             | 26     | 4      | namecheap                                                 |
-| victor.stream     | resell    | —         | —             | 68             | 65     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| zero.stream       | premium   | $3,125    | $125          | 112            | 53     | 4      | name.com                                                  |
-| gross.stream      | available | $9.98     | —             | 64             | 26     | 5      | namecheap                                                 |
-| cloud.stream      | resell    | —         | —             | 70             | 59     | 5      | Sav.com LLC                                               |
-| business.stream   | premium   | $3,250    | $130          | 100            | 53     | 8      | namecheap                                                 |
-| complex.stream    | available | $9.98     | —             | 111            | 25     | 7      | namecheap                                                 |
-| future.stream     | resell    | —         | —             | 94             | 55     | 6      | Spaceship, Inc.                                           |
-| true.stream       | premium   | $1,250    | $125          | 86             | 52     | 4      | name.com                                                  |
-| commercial.stream | available | $9.98     | —             | 91             | 25     | 10     | namecheap                                                 |
-| wallet.stream     | resell    | —         | —             | 74             | 54     | 6      | NameSilo, LLC                                             |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| boats.stream        | available | $9.98     | —             | 52             | 24     | 5      | namecheap       |
+| rekt.stream         | resell    | —         | —             | 40             | 24     | 4      | Dynadot Inc     |
+| travelers.stream    | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
+| deeplearning.stream | available | $9.98     | —             | 74             | 23     | 13     | namecheap       |
+| apartments.stream   | resell    | —         | —             | 60             | 21     | 10     | Dynadot Inc     |
+| cars.stream         | premium   | $12,500   | —             | 66             | 47     | 4      | name.com        |
+| CapeCod.stream      | available | $9.98     | —             | 78             | 22     | 8      | namecheap       |
+| ships.stream        | resell    | —         | —             | 54             | 15     | 5      | Key-Systems LLC |
+| jobs.stream         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com        |
+| flights.stream      | available | $5.25     | $6.25         | 61             | 22     | 7      | namesilo        |
+| Tools.stream        | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
+| results.stream      | available | $9.98     | —             | 59             | 22     | 7      | namecheap       |
+| events.stream       | premium   | $6,250    | —             | 68             | 37     | 6      | name.com        |
+| wheels.stream       | available | $9.98     | —             | 76             | 20     | 6      | namecheap       |
+| etc.stream          | premium   | $625      | —             | 58             | 34     | 3      | name.com        |
+| communities.stream  | available | $9.98     | —             | 68             | 19     | 11     | namecheap       |
+| letsgo.stream       | premium   | $437.50   | —             | 57             | 31     | 7      | name.com        |
+| pestcontrol.stream  | available | $9.98     | —             | 74             | 18     | 12     | namecheap       |
+| inspiration.stream  | premium   | $437.50   | —             | 88             | 30     | 11     | name.com        |
+| houses.stream       | available | $9.98     | —             | 66             | 18     | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,295-row public sample | 9,295 live domains                               |
+| 1,000-row public sample | 11,797 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
