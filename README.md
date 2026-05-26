@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .stream one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,228 domains · **Median ask:** $279.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/stream`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | events.stream      | premium   | $6,250    | —             | 68             | 37     | 6      | name.com        |
 | communities.stream | available | $9.98     | —             | 68             | 19     | 11     | namecheap       |
 | etc.stream         | premium   | $625      | —             | 58             | 34     | 3      | name.com        |
-| pestcontrol.stream | available | $9.98     | —             | 74             | 18     | 12     | namecheap       |
-| inspiration.stream | premium   | $437.50   | —             | 88             | 30     | 11     | name.com        |
 | houses.stream      | available | $9.98     | —             | 66             | 18     | 6      | namecheap       |
-| rewards.stream     | premium   | $3,125    | —             | 62             | 30     | 7      | name.com        |
+| inspiration.stream | premium   | $437.50   | —             | 88             | 30     | 11     | name.com        |
 | whitewater.stream  | available | $9.98     | —             | 82             | 17     | 11     | namecheap       |
-| popup.stream       | premium   | $437.50   | —             | 84             | 29     | 6      | name.com        |
+| rewards.stream     | premium   | $3,125    | —             | 62             | 30     | 7      | name.com        |
+| questions.stream   | available | $9.98     | —             | 78             | 17     | 9      | namecheap       |
+| blocks.stream      | premium   | $437.50   | —             | 53             | 29     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
