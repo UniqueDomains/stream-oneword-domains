@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .stream one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,228 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,228 domains · **Median ask:** $279.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,228 domains · **Median ask:** $408.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/stream`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/stream`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .STREAM one-word domai
 
 ### Files
 
-- `stream.csv` — public CSV extract (1,000 rows)
-- `stream.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `stream.csv`, public CSV extract (1,000 rows)
+- `stream.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| boats.stream       | available | $9.98     | —             | 52             | 24     | 5      | namecheap       |
-| apartments.stream  | resell    | —         | —             | 60             | 21     | 10     | Dynadot Inc     |
-| travelers.stream   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
-| CapeCod.stream     | available | $9.98     | —             | 78             | 22     | 8      | namecheap       |
-| ships.stream       | resell    | —         | —             | 54             | 15     | 5      | Key-Systems LLC |
-| cars.stream        | premium   | $12,500   | —             | 66             | 47     | 4      | name.com        |
-| flights.stream     | available | $5.25     | $6.25         | 61             | 22     | 7      | namesilo        |
-| jobs.stream        | premium   | $1,250    | —             | 79             | 42     | 4      | name.com        |
-| results.stream     | available | $9.98     | —             | 59             | 22     | 7      | namecheap       |
-| Tools.stream       | premium   | $490      | $70           | 56             | 40     | 5      | namecheap       |
-| wheels.stream      | available | $9.98     | —             | 76             | 20     | 6      | namecheap       |
-| events.stream      | premium   | $6,250    | —             | 68             | 37     | 6      | name.com        |
-| communities.stream | available | $9.98     | —             | 68             | 19     | 11     | namecheap       |
-| etc.stream         | premium   | $625      | —             | 58             | 34     | 3      | name.com        |
-| houses.stream      | available | $9.98     | —             | 66             | 18     | 6      | namecheap       |
-| inspiration.stream | premium   | $437.50   | —             | 88             | 30     | 11     | name.com        |
-| whitewater.stream  | available | $9.98     | —             | 82             | 17     | 11     | namecheap       |
-| rewards.stream     | premium   | $3,125    | —             | 62             | 30     | 7      | name.com        |
-| questions.stream   | available | $9.98     | —             | 78             | 17     | 9      | namecheap       |
-| blocks.stream      | premium   | $437.50   | —             | 53             | 29     | 6      | name.com        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| yes.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| clean.stream     | premium   | $1,107    | $116          | high           | low    | 5      | namesilo        |
+| door.stream      | available | $9.98     | —             | high           | low    | 4      | namecheap       |
+| axis.stream      | resell    | —         | —             | medium         | medium | 4      | NameSilo, LLC   |
+| ADS.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| evil.stream      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
+| sign.stream      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| ane.stream       | premium   | $625      | $81.25        | low            | low    | 3      | name.com        |
+| Jody.stream      | available | $9.98     | —             | high           | low    | 4      | namecheap       |
+| design.stream    | resell    | —         | —             | high           | medium | 6      | Dynadot Inc     |
+| atp.stream       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| pail.stream      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
+| mantra.stream    | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC   |
+| awe.stream       | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| poor.stream      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
+| wallet.stream    | resell    | —         | —             | high           | medium | 6      | NameSilo, LLC   |
+| bce.stream       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| suit.stream      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
+| investing.stream | resell    | —         | —             | high           | low    | 9      | Key-Systems LLC |
+| bud.stream       | premium   | $625      | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .stream domains. The extension gives every name a clear streaming, broadcast, live, or media-adjacent angle, so the best fits are words that still read cleanly with .stream attached. Examples like pink.stream, electric.stream, create.stream, raise.stream, and overtime.stream show the range: descriptive, energetic, and highly brandable terms. When comparing these domains, focus on whether the word becomes more memorable with .stream, whether the meaning is broad enough for a company or project to grow into, and whether the asking price is justified by clarity, commercial use, and renewal tolerance.
+This list gathers one-word .stream domain names drawn from a pool of 12,228 listings, with a median asking price around $408. Names such as out.stream, half.stream, and christmas.stream show the pattern: short, everyday words paired with the streaming-focused .stream extension. When comparing these domains, weigh the asking price against renewal cost, check for existing trademarks, and favor names that are easy to spell and pronounce. Updated daily.
 
-- All names in this selection use the .stream TLD
-- Median ask is about $280 across 12,226 domains
-- Best picks read naturally with “.stream” attached
-- Check trademark overlap before treating a word as ownable
+- Median ask near $408 across this .stream set
+- One-word, brandable names ready to compare
+- Renewal cost matters as much as sticker price
+- 12,228 .stream domains, updated daily
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
