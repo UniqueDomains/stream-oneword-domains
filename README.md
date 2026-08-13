@@ -1,10 +1,10 @@
-# Available .STREAM One-Word Domains (13,710)
+# Available .STREAM One-Word Domains (14,468)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C710%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C468%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .stream one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,710 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,468 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,710 domains · **Median ask:** $331.34 · **High-demand under $2,500:** 16
+**Public extract:** 1,000 rows · **Live catalog:** 14,468 domains · **Median ask:** $319.95 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/tld/stream`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| yes.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| clean.stream     | premium   | $1,107    | $116          | high           | low    | 5      | namesilo        |
 | awny.stream      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo        |
 | axis.stream      | resell    | —         | —             | medium         | medium | 4      | NameSilo, LLC   |
 | ADS.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
@@ -84,6 +82,8 @@ print(df.head())
 | pail.stream      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
 | investing.stream | resell    | —         | —             | high           | low    | 9      | Key-Systems LLC |
 | bay.stream       | premium   | $625      | $81.25        | low            | low    | 3      | name.com        |
+| poor.stream      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
+| bce.stream       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,710 live domains                        |
+| 1,000-row public sample | 14,468 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
