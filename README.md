@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .stream one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,222 domains · **Median ask:** $272.37 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/stream`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| yes.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| clean.stream     | premium   | $1,107    | $116          | high           | low    | 5      | namesilo        |
 | awny.stream      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo        |
 | axis.stream      | resell    | —         | —             | medium         | medium | 4      | NameSilo, LLC   |
 | ADS.stream       | premium   | $625      | —             | high           | medium | 3      | name.com        |
@@ -82,8 +84,6 @@ print(df.head())
 | pail.stream      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
 | investing.stream | resell    | —         | —             | high           | low    | 9      | Key-Systems LLC |
 | bay.stream       | premium   | $625      | $81.25        | low            | low    | 3      | name.com        |
-| poor.stream      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
-| bce.stream       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
