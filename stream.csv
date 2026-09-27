@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3bf1ae5e-5d92-43ec-bc2d-4803f089a41f,teatime.stream,premium,448,53.92,high,low,7,namesilo,,,17/09/2026 15:45
 b9d948ef-6926-4d19-8500-aacd352651a3,maudlin.stream,available,5.25,6.25,medium,low,7,namesilo,,,09/08/2026 00:42
 56e96125-39e4-48cb-927c-f7f04e130ddd,cheated.stream,available,5.25,6.25,medium,low,7,namesilo,,,
-280b030c-b6fc-4ebe-a2c6-7d049e3da8d5,rip.stream,premium,625,,high,low,3,name.com,,,
+280b030c-b6fc-4ebe-a2c6-7d049e3da8d5,rip.stream,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 07:10
 0aa35422-6143-48cc-a32a-9f77f666cb77,lofty.stream,available,5.25,6.25,high,low,5,namesilo,,,17/08/2026 15:42
 c97cceb9-a244-4c28-92dd-31762a7db50c,medically.stream,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 13:56
 8e8719ce-a1a1-42a5-9d34-abc75f89a865,military.stream,premium,13000,130,high,low,8,namecheap,,,25/09/2026 20:05
@@ -22,6 +22,7 @@ f5f95291-ba91-40f5-b36b-7b731edcf34b,manages.stream,available,5.25,6.25,medium,l
 83d981c0-7ed3-4148-b4a9-291adc67a150,cleaners.stream,available,5.98,9.98,high,low,8,namecheap,,,24/09/2026 15:26
 1828099e-a01f-453e-847d-ac3ef1e9b70d,untrue.stream,premium,455,65,medium,low,6,namecheap,,,26/09/2026 03:18
 056ad91f-7dfa-465d-a9cf-c70fc7694c29,theory.stream,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 04:33
+8e651c69-b838-441b-9145-3b148981e66f,darlington.stream,premium,448,53.92,high,low,10,namesilo,,,27/09/2026 06:24
 fa3de8c5-62f0-477e-8966-04df12fdd732,saltish.stream,available,5.98,9.98,high,medium,7,namecheap,,,09/09/2026 20:57
 4f8f8caa-50ae-4101-9d2e-de0a5cc3d3bd,sapiential.stream,available,5.98,9.98,high,medium,10,namecheap,,,09/09/2026 21:20
 1d67f778-9ba3-4dfd-8f30-cbcf2d6fa2b6,blusher.stream,available,5.25,6.25,medium,low,7,namesilo,,,18/09/2026 15:49
@@ -45,6 +46,7 @@ d4669c34-7652-4fbe-84d8-f25bfd1d395a,downtime.stream,premium,448,53.92,high,low,
 d5f699b2-d303-4611-9c5e-908ed75c63fb,aves.stream,premium,448,53.92,high,low,4,namesilo,,,21/09/2026 09:17
 1454864c-a30a-421b-9f97-774986331e7b,settle.stream,premium,116,29.5,high,low,6,namesilo,,,25/09/2026 10:17
 007a2cd3-5425-4d74-8717-fae67d30d85f,antihero.stream,premium,455,65,high,low,8,namecheap,,,19/09/2026 14:35
+816adbb5-ca92-427d-a81d-0adb31641350,preparing.stream,available,5.98,9.98,high,low,9,namecheap,,,27/09/2026 06:40
 780ff918-8032-4ef2-91a2-73a3faa63eaf,complement.stream,available,5.25,6.25,high,low,10,namesilo,,,
 b1b598be-360f-41bb-b372-06cac1f67120,avenue.stream,premium,116,29.5,high,medium,6,namesilo,,,21/09/2026 09:08
 b457b613-647e-4a29-9692-541e87b90acd,reductive.stream,available,5.25,6.25,high,medium,9,namesilo,,,09/09/2026 12:25
@@ -64,6 +66,7 @@ bf46dfab-bfec-44d4-b3bd-530c232e1dfb,hoary.stream,available,5.98,9.98,medium,low
 bc1a43ac-9ddc-42d9-b989-96d6b924caa7,intertidal.stream,available,5.25,6.25,high,low,10,namesilo,,,22/08/2026 08:21
 f464d031-1a8b-4fde-9647-982e9ae63337,adsorption.stream,available,5.25,6.25,medium,low,10,namesilo,,,17/09/2026 10:05
 0e41f2f9-8ee6-40b6-8e54-5d20ffeb4bd4,hoggish.stream,available,5.25,6.25,low,low,7,namesilo,,,21/08/2026 10:16
+396047d5-2218-411c-855f-76585efcdb95,keating.stream,premium,455,65,high,low,7,namecheap,,,27/09/2026 08:01
 d0d4eb3d-51b6-405c-8c05-ec560aa69688,atomic.stream,premium,3125,125,high,medium,6,name.com,,,22/09/2026 11:03
 f07df2a2-0019-48f7-94cc-3aff0d3e62d4,alas.stream,premium,448,53.92,high,low,4,namesilo,,,13/09/2026 18:37
 6f0e2937-51f8-41c1-9173-0c890f24165d,terracotta.stream,premium,437.5,62.5,high,low,11,name.com,,,17/09/2026 09:12
@@ -110,6 +113,7 @@ c5e5669f-679f-4b56-9a0e-1b78844f199b,taurus.stream,premium,448,53.92,high,low,6,
 17a692a2-6324-4b25-8665-42b40d1b6b98,phyllodial.stream,available,5.98,9.98,high,medium,10,namecheap,,,08/09/2026 19:25
 0139baf4-9b04-470f-a7b1-b01f30e41af4,venal.stream,premium,437.5,62.5,medium,low,5,name.com,,,11/08/2026 03:46
 729208b5-8a97-46e2-aad4-72a10d27635f,germany.stream,available,,,high,high,7,,,,
+80ddf7f2-737d-4c1b-bc0a-b10dc87f2a13,embarrassing.stream,available,5.25,6.25,high,low,12,namesilo,,,27/09/2026 06:37
 3ee845db-2f26-45b3-9bd5-6f278d71dbc0,exchanges.stream,available,5.25,6.25,medium,low,9,namesilo,,,25/09/2026 06:05
 b4cc10bd-ce30-4960-950b-71d88111b46f,honorary.stream,available,5.25,6.25,high,low,8,namesilo,,,21/08/2026 13:29
 870301c4-0bc4-4c05-9269-59c9427ddc3a,barcelona.stream,premium,3450,116,high,low,9,namesilo,,,22/09/2026 05:08
@@ -141,6 +145,7 @@ aa457742-b501-4c81-a3a2-1a1d87179fec,sunup.stream,premium,448,53.92,high,low,5,n
 b2ea56f2-2c31-4c31-b02c-9f3b68b1776c,cases.stream,premium,448,53.92,medium,low,5,namesilo,,,17/09/2026 16:31
 14f3c9a5-da3b-43a6-8b9e-826cf6620533,addition.stream,premium,437.5,,high,low,8,name.com,,,
 a93813ed-346a-43b0-a975-931db64e19d4,edmund.stream,available,5.98,9.98,high,low,6,namecheap,,,25/09/2026 19:09
+5982a02a-59fc-40ec-8959-d47548f12462,mole.stream,premium,448,53.92,high,low,4,namesilo,,,27/09/2026 11:53
 3e527c52-e353-418f-b982-5211598d05fd,sulfuric.stream,available,5.25,6.25,medium,low,8,namesilo,,,11/09/2026 01:29
 ed3e039f-d5db-413d-9c9c-6b9fe91b1aff,oneself.stream,available,5.25,6.25,high,low,7,namesilo,,,
 b152a478-d33b-4bbd-8d88-f04be16b4491,lugubrious.stream,available,5.25,6.25,medium,low,10,namesilo,,,24/08/2026 11:04
@@ -200,7 +205,7 @@ b030a121-e0c6-4fcc-b9da-405d1b6b7f3e,kroeber.stream,available,5.25,6.25,medium,l
 4215536e-18a3-4c83-8ae0-d4b3e8973316,numbat.stream,premium,455,65,medium,low,6,namecheap,,,22/09/2026 01:07
 6c34af5b-dcd9-408a-97f5-7ac1ad38dc69,landwards.stream,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 10:41
 ae1a87d1-e5d1-436e-bd6e-7a06a415ea7d,though.stream,premium,116,29.5,medium,low,6,namesilo,,,16/09/2026 08:58
-e8d092e4-ef65-4886-9bd2-387d5c1f1730,played.stream,available,5.25,6.25,high,low,6,namesilo,,,
+e8d092e4-ef65-4886-9bd2-387d5c1f1730,played.stream,available,5.25,6.25,high,low,6,namesilo,,,27/09/2026 04:03
 97a54b08-1ff7-4131-858e-8ba85ae77526,trippingly.stream,available,5.25,6.25,medium,low,10,namesilo,,,15/09/2026 11:20
 e38f554b-f5c8-4873-a865-6647c289a00a,contemplation.stream,premium,448,53.92,high,low,13,namesilo,,,16/09/2026 21:40
 995ad487-cb52-4b51-af81-5cbb7fd1e36d,xlviii.stream,available,5.25,6.25,medium,low,6,namesilo,,,
@@ -441,17 +446,19 @@ f9806b0d-3f66-4d2a-b325-ffc09fdb69d2,appraiser.stream,available,5.25,6.25,high,l
 db70a796-1b8d-4ffd-9cc4-f9c596e7cdc7,columnar.stream,available,5.98,9.98,medium,low,8,namecheap,,,12/08/2026 18:14
 c05ff725-fca2-4139-8f6e-c7604063d739,sextuple.stream,available,5.25,6.25,medium,low,8,namesilo,,,10/09/2026 05:19
 aa083463-9fd9-4fab-bb4c-7dee061f7f44,breasted.stream,available,5.25,6.25,medium,low,8,namesilo,,,11/08/2026 03:12
-71de0d50-5f8e-41f1-8ae9-69c570a78706,resolute.stream,premium,437.5,,high,low,8,name.com,,,
+71de0d50-5f8e-41f1-8ae9-69c570a78706,resolute.stream,premium,455,65,high,low,8,namecheap,,,27/09/2026 12:14
 3ee85eec-0663-474a-becd-e89ba671ded4,notion.stream,premium,437.5,,high,low,6,name.com,,,
 75563aff-61f8-404d-a5dd-70dbe11e4357,greene.stream,available,5.25,6.25,high,low,6,namesilo,,,25/09/2026 06:41
 d8ce0482-7bf3-4f13-972a-7f90128b9619,luanda.stream,available,5.98,9.98,medium,low,6,namecheap,,,19/09/2026 06:58
 4f8234f6-1bac-4c3d-bd0a-ecc2a5a62099,replete.stream,premium,448,53.92,high,low,7,namesilo,,,09/09/2026 14:32
 6b616a99-f9a9-487e-91b5-c76c914af874,forgive.stream,available,5.25,6.25,high,low,7,namesilo,,,
 5e6857de-06f2-464a-b187-04516115f7f4,elvish.stream,available,5.25,6.25,medium,low,6,namesilo,,,16/08/2026 03:43
+2989f78d-7798-4d65-94e3-fe93bff00cc9,corbett.stream,premium,448,53.92,high,low,7,namesilo,,,27/09/2026 03:35
 9282be87-514a-4f26-bd4b-70c750d43839,elk.stream,premium,650,84.5,high,low,3,namecheap,,,18/09/2026 03:55
 3240e0bb-2854-4c85-8abc-9e3ce3fe1c0e,cosset.stream,available,34.99,37.99,high,low,6,name.com,,,21/09/2026 13:00
 06349a34-166e-4fae-baef-12c9e3084429,connector.stream,premium,448,53.92,high,low,9,namesilo,,,24/09/2026 17:23
 4b4d1cb1-f269-4694-a73d-34701d42befd,beograd.stream,available,5.25,6.25,high,low,7,namesilo,,,23/09/2026 05:12
+d5990cae-4159-49fc-b606-09452f710fa4,immediately.stream,available,5.25,6.25,high,low,11,namesilo,,,27/09/2026 06:22
 483b6612-5564-41bf-8238-39909a61cd1c,acetic.stream,available,5.25,6.25,medium,low,6,namesilo,,,
 764a1012-b64d-4c95-9c7f-4c95f74e1224,blackbeard.stream,premium,448,53.92,medium,low,10,namesilo,,,24/09/2026 02:06
 172b500e-ec77-4d15-81b8-0e1c2654b972,neotenic.stream,available,5.25,6.25,medium,low,8,namesilo,,,03/09/2026 15:31
@@ -477,6 +484,7 @@ b476ba6c-aa84-4bea-a50a-68c173971a67,stormproof.stream,premium,455,65,medium,low
 c6e6f2a4-93b9-4b53-aaa4-86a5792694de,dryness.stream,available,5.25,6.25,high,low,7,namesilo,,,24/09/2026 22:51
 b7172a47-4204-41fd-92b6-552b43fe7957,charitably.stream,available,5.25,6.25,medium,low,10,namesilo,,,14/09/2026 06:19
 ce233ec1-033f-4ee5-9969-3f1f32254d7b,fizzle.stream,premium,437.5,62.5,medium,low,6,name.com,,,11/08/2026 11:19
+4398df76-a502-4113-a1b9-c85a0673de8c,rothschild.stream,premium,448,53.92,high,medium,10,namesilo,,,27/09/2026 05:11
 53cb4be1-67ad-4bb4-9af6-aac9ac9a2c83,retailing.stream,available,5.25,6.25,high,low,9,namesilo,,,23/09/2026 07:59
 2682a590-ff4b-4ec7-a33d-0d625f60e3ac,breaks.stream,premium,448,53.92,medium,low,6,namesilo,,,17/09/2026 22:04
 964b7515-39cf-42db-93bf-875f46b1d086,saxon.stream,available,5.25,6.25,high,low,5,namesilo,,,09/09/2026 22:11
@@ -500,6 +508,7 @@ b0381cd9-f92e-445d-8ed7-82175265e988,birch.stream,premium,437.5,62.5,high,low,5,
 291fda1e-1671-4212-ae30-ff96dca6fd28,massages.stream,available,5.25,6.25,medium,low,8,namesilo,,,20/09/2026 09:22
 0b461f25-1fa9-437a-9062-48594273ce7a,beauteous.stream,premium,437.5,62.5,medium,low,9,name.com,,,09/08/2026 05:58
 7e2d503c-a21b-4841-a89a-d1e0d6345773,appetite.stream,premium,455,65,high,low,8,namecheap,,,19/09/2026 20:41
+00c5cd9a-eeb4-4c9e-9edb-56700c9a1cb5,guggenheim.stream,premium,448,53.92,high,low,10,namesilo,,,27/09/2026 04:18
 c5bdd22d-377b-498c-9f79-50ad4860dac3,achondrite.stream,available,5.98,9.98,medium,low,10,namecheap,,,17/09/2026 00:54
 0da35c8d-a570-496b-bcc3-579525e96abe,caprice.stream,premium,448,53.92,high,low,7,namesilo,,,24/09/2026 12:38
 b4393794-8aeb-4a77-82f2-f6b546650560,burberry.stream,premium,448,53.92,high,medium,8,namesilo,,,24/09/2026 11:17
@@ -550,6 +559,7 @@ f494e33a-2852-4857-b051-1e6ade932761,hollows.stream,available,5.25,6.25,low,low,
 6032c7f2-cb6a-4aa6-83fc-3df593cfad46,abramis.stream,available,5.98,9.98,medium,low,7,namecheap,,,16/09/2026 16:53
 2ad4adae-ef4c-4bce-a6d1-b47305dce9c9,conducted.stream,available,5.25,6.25,medium,low,9,namesilo,,,
 eeb3e584-a4b2-40e0-a9e1-3db6b4a4a38b,washing.stream,available,5.25,6.25,high,low,7,namesilo,,,
+2fc40db3-f803-44a5-bca7-18347632660c,daphne.stream,premium,362.45,51.95,high,low,6,spaceship,,,27/09/2026 12:56
 2b093a29-429a-43d6-86f6-46a385a38ffa,bothered.stream,available,5.25,6.25,high,low,8,namesilo,,,23/09/2026 01:08
 0b96fb04-75a9-4b35-b396-e88daa90573f,felt.stream,premium,455,65,high,low,4,namecheap,,,25/09/2026 18:07
 665035c0-d9d1-408d-98e2-7f56ec2a9579,inhabitant.stream,available,5.25,6.25,high,low,10,namesilo,,,24/09/2026 21:51
@@ -577,6 +587,7 @@ b2a33489-f0e3-496f-bf25-573e657f2e00,fretted.stream,available,5.25,6.25,medium,l
 1c07aebc-840d-4e98-af2e-1c6dc94ef7c9,lowbrow.stream,premium,437.5,62.5,medium,low,7,name.com,,,
 9102b60a-c775-43b9-8ce1-66a2ed8d7a48,volcanic.stream,premium,448,53.92,high,low,8,namesilo,,,13/09/2026 06:48
 f97bba1e-5759-4d6c-ae7a-84319db4e807,immovable.stream,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 21:17
+a646881e-99e2-4056-89b0-68a24d5955dc,firing.stream,available,5.25,6.25,high,low,6,namesilo,,,27/09/2026 03:58
 052de65c-f406-4bfe-8f72-13c678e8ee22,shyly.stream,available,5.25,6.25,medium,low,5,namesilo,,,13/09/2026 23:37
 0dc9d243-cace-4c63-b5f1-b667e6a563f8,admittedly.stream,available,5.98,9.98,medium,low,10,namecheap,,,11/09/2026 20:31
 0d11b912-1b1c-4756-8bd5-1ef55dc2bf56,tucker.stream,available,5.25,6.25,high,low,6,namesilo,,,23/09/2026 08:24
@@ -720,7 +731,6 @@ c4980219-2acf-49d4-9f35-6dc7539905d8,agency.stream,premium,1107,116,high,medium,
 52c89b4a-c248-4ecd-821b-c5079568e737,arrayed.stream,available,5.25,6.25,medium,low,7,namesilo,,,06/08/2026 21:37
 7cf5224c-3b96-404e-bbf8-54d14954f463,suggestive.stream,available,5.25,6.25,high,low,10,namesilo,,,21/08/2026 22:34
 3f1a451e-e569-44ae-8df4-06d5ca0363eb,classify.stream,premium,455,65,high,low,8,namecheap,,,24/09/2026 15:20
-38be54db-2854-411a-8e22-bf59c666af27,standard.stream,premium,116,29.5,high,medium,8,namesilo,,,
 5033d87b-a6cf-48b0-8e76-fd6aeaf945ea,aptness.stream,available,5.98,9.98,medium,low,7,namecheap,,,19/09/2026 22:03
 3fdf0315-b793-4256-8f18-b0ccfd8d1c5a,wigeon.stream,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 03:00
 83ac6a7c-532f-4ba9-bfb6-758494349469,politic.stream,premium,116,29.5,high,low,7,namesilo,,,08/09/2026 23:06
@@ -752,6 +762,7 @@ f84ff5db-c819-4ebf-91a1-4504a4e46d00,slatey.stream,available,5.25,6.25,medium,lo
 df182c28-b627-4efb-91a9-b3fa7b0b8734,bonnily.stream,available,5.25,6.25,medium,low,7,namesilo,,,14/09/2026 01:04
 0c1ef3ab-47cf-4d23-a1cc-3fcda62e41df,six.stream,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 13:17
 7a3d55c3-7bc9-456d-bb35-5c4fec19e0b3,producer.stream,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 10:38
+cdd394c6-dcdf-4c2d-89ed-e924e4b1ca30,policeman.stream,available,5.25,6.25,high,low,9,namesilo,,,27/09/2026 05:03
 39219f67-37bd-4cd6-a223-327c98ba7905,prenatal.stream,available,5.25,6.25,high,low,8,namesilo,,,22/09/2026 05:55
 ff6d5e13-fa35-46c9-810f-e444c1d77622,burbly.stream,available,5.25,6.25,high,low,6,namesilo,,,11/08/2026 10:14
 48076edc-f4b7-45bd-8615-149b8ead2e0a,gushy.stream,available,5.98,9.98,medium,low,5,namecheap,,,20/08/2026 21:03
@@ -830,6 +841,7 @@ b9bdb2d5-97de-4d23-ae28-a9126a5f7136,software.stream,premium,6250,125,high,mediu
 1e9a572c-96cd-4cc4-9743-248ea2f4146a,tanzanian.stream,available,5.25,6.25,high,low,9,namesilo,,,11/09/2026 08:09
 1c0b008e-38a7-405f-97aa-50e0a2fe574f,came.stream,premium,437.5,,high,low,4,name.com,,,
 f10a1223-e49a-407a-903e-17a1f1b8c7fc,abattis.stream,available,5.25,6.25,medium,low,7,namesilo,,,16/09/2026 14:11
+e3d37830-ebac-4588-afc3-a6815a6454b6,passenger.stream,premium,448,53.92,high,low,9,namesilo,,,27/09/2026 04:56
 8e83b6d2-2532-4552-9255-c7bc3eda85a2,irenic.stream,available,5.25,6.25,medium,low,6,namesilo,,,22/08/2026 09:48
 eca46670-9cd5-4feb-a64a-f69740cc4196,suspicious.stream,premium,437.5,62.5,medium,low,10,name.com,,,22/08/2026 22:28
 9882dc74-19f5-4a6d-b354-f1c9067abba1,amended.stream,available,5.25,6.25,high,low,7,namesilo,,,
@@ -866,6 +878,7 @@ a0dd5e6d-cd8a-4d9f-989d-da123f868ee7,acris.stream,premium,448,53.92,medium,low,5
 92393d58-a0d2-4973-b555-f75eafb313f7,alamo.stream,premium,437.5,,high,medium,5,name.com,,,
 8dc67dc5-fa6f-4048-822b-6f679af63068,alary.stream,available,5.25,6.25,medium,low,5,namesilo,,,
 35eca467-ddca-4bb8-a975-50951c65ceb5,wesley.stream,available,5.25,6.25,high,low,6,namesilo,,,25/09/2026 22:12
+ca79aa40-169a-498c-9986-7d7700f60a52,penalty.stream,available,5.25,6.25,high,low,7,namesilo,,,27/09/2026 04:58
 61a335cb-2cf7-4d0a-9571-11a4b3f27b70,spiraling.stream,available,5.25,6.25,medium,low,9,namesilo,,,12/08/2026 16:12
 f9804dfd-30d4-4655-b055-9c5778404dff,maintain.stream,premium,437.5,,high,low,8,name.com,,,
 3292eb18-a60a-49ec-8528-d0b518b236c4,analogical.stream,available,5.25,6.25,medium,low,10,namesilo,,,
@@ -901,6 +914,7 @@ f2264ec1-6113-4583-bee0-dad2dccd6cb1,enormously.stream,available,5.25,6.25,high,
 ce12df48-7941-4361-9097-51dba7528d71,papuan.stream,available,5.25,6.25,high,low,6,namesilo,,,05/09/2026 01:44
 f37c0e69-9568-4cc6-af7c-037e04b6dfb4,palmy.stream,premium,437.5,62.5,medium,low,5,name.com,,,10/08/2026 19:15
 c8f33cf5-0e0b-424c-ac0c-012a68f1b90a,unanimous.stream,premium,437.5,62.5,high,low,9,name.com,,,12/08/2026 22:33
+f92c02c2-1b66-4c92-9a6b-fb7846043259,mcguire.stream,available,5.25,6.25,high,low,7,namesilo,,,27/09/2026 08:49
 3656f0d6-b224-4a86-b3ad-50a346f41fe9,redden.stream,available,5.25,6.25,medium,low,6,namesilo,,,13/08/2026 06:34
 8f8828ad-8d59-40ce-a5af-dc352605edec,affirm.stream,available,,,high,high,6,,,,
 1cd62a76-74f4-4348-8a31-908988cff4b6,orca.stream,available,,,high,medium,4,,,,
@@ -941,6 +955,7 @@ a5a07304-10f0-4f68-bb31-b26ed1353aba,bilberry.stream,available,5.98,9.98,medium,
 c9651f68-2bf0-40b0-b65b-fa368fac103b,toothless.stream,available,5.25,6.25,medium,low,9,namesilo,,,11/09/2026 17:15
 4113e962-1a6a-4dc9-891e-09a8dbaa409f,megascopic.stream,available,5.98,9.98,medium,low,10,namecheap,,,24/08/2026 19:26
 d82e1d8d-7d83-4cd5-96e7-9bb2dd968024,alderfly.stream,available,5.25,6.25,high,low,8,namesilo,,,18/09/2026 04:32
+1fb6aa69-78f7-476c-ac54-6394a8e596d7,jeremy.stream,available,5.25,6.25,high,low,6,namesilo,,,27/09/2026 10:46
 68fa9c29-09ff-49d4-9c6b-f427e660e771,condition.stream,premium,437.5,,high,low,9,name.com,,,
 ad47c227-cd53-4c3a-abe6-a920079ecdfa,schnabel.stream,available,5.25,6.25,high,low,8,namesilo,,,20/09/2026 12:04
 a3d9beaf-45d8-4671-b609-d6cf3574ef54,orleans.stream,available,5.25,6.25,high,low,7,namesilo,,,
@@ -984,18 +999,3 @@ c1993266-5ebf-42b6-9aaa-4c961b5bd3d2,humbly.stream,available,5.25,6.25,high,low,
 59efb3bd-5b35-473f-9308-78a061075177,incurably.stream,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 07:45
 d0e4a1d4-fbfc-48d4-b152-67a507a6310d,volitional.stream,available,5.25,6.25,medium,low,10,namesilo,,,13/09/2026 06:50
 fbb98f4c-6bc6-4b79-94b8-b0a4bd0359a0,arbour.stream,premium,448,53.92,medium,low,6,namesilo,,,20/09/2026 00:58
-99c795fa-b657-401d-8dbf-e003d842a1bb,shoreward.stream,available,5.25,6.25,high,low,9,namesilo,,,22/08/2026 07:00
-8f49ced9-730b-4f9b-9335-de4f20333e32,dickey.stream,available,5.25,6.25,medium,low,6,namesilo,,,14/08/2026 06:29
-b107ea85-cdf9-44b5-ae2c-b4baefeb41af,kills.stream,available,5.98,9.98,medium,low,5,namecheap,,,25/09/2026 21:19
-41674c37-086c-4d35-b959-0e7bf9c7359e,actions.stream,available,5.25,6.25,medium,low,7,namesilo,,,
-536669b1-1873-4dd3-85e5-ef855e83f317,fiedler.stream,available,5.98,9.98,high,low,7,namecheap,,,20/09/2026 10:50
-793a55c5-401f-4b49-8d63-4f83a04e78ca,involve.stream,premium,437.5,,high,low,7,name.com,,,
-9e5ca190-280a-43b1-9174-2d34d9b89388,beefburger.stream,available,5.25,6.25,medium,low,10,namesilo,,,23/09/2026 01:04
-521b1e3c-5e93-44f5-8414-afbba6308656,beheading.stream,available,5.98,9.98,medium,low,9,namecheap,,,23/09/2026 03:20
-348c35b7-3bb2-4f33-8769-827ac4700a3a,liberian.stream,available,5.25,6.25,medium,low,8,namesilo,,,23/08/2026 00:47
-e3f0b098-928f-423c-a850-3bdcc0365c7a,attested.stream,available,5.25,6.25,medium,low,8,namesilo,,,07/08/2026 15:41
-cddadbb0-1210-4a5e-aa0c-78dcfe0dd55b,want.stream,available,9.98,,high,low,4,namecheap,,,
-f121a55a-4fe1-4e7f-8182-d4772cc1dc69,addled.stream,available,5.25,6.25,medium,low,6,namesilo,,,
-9254a55b-6005-47cf-8834-621820acc220,arariba.stream,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 00:13
-743f370d-be2f-4ddc-9a27-06ee47895189,antenna.stream,premium,437.5,,high,low,7,name.com,,,
-fce37b02-7f56-4c0b-bed1-468a3f02b39d,keyserver.stream,available,9.98,,medium,low,10,namecheap,,,
