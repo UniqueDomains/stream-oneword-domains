@@ -1,10 +1,10 @@
-# Available .STREAM One-Word Domains (32,680)
+# Available .STREAM One-Word Domains (22,900)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C680%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C900%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .stream one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,680 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,900 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,680 domains · **Median ask:** $223.95 · **High-demand under $2,500:** 17
+**Public extract:** 1,000 rows · **Live catalog:** 22,900 domains · **Median ask:** $326.03 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/stream`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aids.stream   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| axis.stream   | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                                             |
-| ada.stream    | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| awny.stream   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| mall.stream   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ads.stream    | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| bath.stream   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| sign.stream   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| aft.stream    | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                                  |
-| buns.stream   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
-| mantra.stream | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC                                             |
-| ale.stream    | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| foul.stream   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| taipei.stream | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                           |
-| ane.stream    | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                                  |
-| jody.stream   | available | $9.98     | —             | high           | low    | 4      | namecheap                                                 |
-| victor.stream | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ann.stream    | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| june.stream   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| wallet.stream | resell    | —         | —             | high           | medium | 6      | NameSilo, LLC                                             |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| agal.stream    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| ride.stream    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| ado.stream     | premium   | $650      | $84.50        | high           | low    | 3      | namecheap                                                 |
+| agra.stream    | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                                 |
+| wind.stream    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| bib.stream     | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| dial.stream    | available | $5.25     | $6.25         | high           | medium | 4      | namesilo                                                  |
+| lucid.stream   | resell    | —         | —             | high           | medium | 5      | NameSilo, LLC                                             |
+| bpm.stream     | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| erst.stream    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| panda.stream   | resell    | —         | —             | high           | medium | 5      | Porkbun                                                   |
+| bud.stream     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| gaga.stream    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| victor.stream  | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cia.stream     | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                                  |
+| idly.stream    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| operate.stream | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                                             |
+| cob.stream     | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| joan.stream    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| coy.stream     | premium   | $650      | $84.50        | high           | low    | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,680 live domains                        |
+| 1,000-row public sample | 22,900 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 17 high-demand names under $2,500          |
+| Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STREAM One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
